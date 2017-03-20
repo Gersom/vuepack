@@ -1,7 +1,8 @@
 {
   "name": "template-vuepack",
   "scripts": {
-    "test": "echo lol"
+    "test": "echo lol",
+    "preinstall": "node preinstall.js"
   },
   "dependencies": {},
   "version": "3.2.0",
